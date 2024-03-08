@@ -1,0 +1,6 @@
+# Service definition to set state for individual led in a led panel.
+
+int64 led_number
+bool state
+---
+bool success
